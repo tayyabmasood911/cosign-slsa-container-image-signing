@@ -1,7 +1,7 @@
 # :rocket: Cosign Slsa Container Image Signing
 
 <p align="center">
-  <img src="docs/images/security-pipeline.jpg" alt="Container Signing & Security Architecture" width="100%" style="border-radius: 8px;" />
+  <img src="docs/images/architecture-white.jpg" alt="Container Signing & Security Architecture" width="100%" style="border-radius: 8px;" />
 </p>
 
 <div align="center">
